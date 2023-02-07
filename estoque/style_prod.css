@@ -1,0 +1,44 @@
+.main_div{
+    width: 40%;
+    display:flex;
+    
+}
+body{
+    background-color: rgb(1, 18, 116);
+    margin: 0%;
+}
+.mostrar{
+    border: 3px black solid;
+    margin: 0px;
+    background-color: aliceblue;
+    margin: 0%;
+}
+.titulo{
+    color: aliceblue;
+}
+.coluna{
+    border-style: solid;
+    border-color: black;
+    border-width:  1px;
+    margin-top: -2px;
+    font-size: xx-large;
+}
+div{
+  
+    display: inline-block;
+}
+.prod{
+    background-color: aliceblue;
+    border: 3px black solid;
+    margin: 0px;
+}
+input{
+    margin: 3px;
+}
+button{
+    cursor: pointer;
+    background-color: aliceblue;
+    width: 12%;
+    height: 25%;
+    font-size: larger;
+}

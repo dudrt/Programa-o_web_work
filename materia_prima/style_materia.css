@@ -1,0 +1,51 @@
+.main_div{
+    width: 22%;
+    display:flex;
+    background-color: aliceblue;
+    
+}
+.mostrar{
+    border: 3px black solid;
+    margin: 0px;
+
+}
+.coluna{
+    border-style: solid;
+    border-color: black;
+    border-width:  1px;
+    margin-top: -2px;
+    font-size: xx-large;
+}
+div{
+  
+    display: inline-block;
+}
+.prod{
+    background-color: aliceblue;
+    border: 3px black solid;
+    margin: 0px;
+}
+input{
+    margin: 3px;
+}
+summary{
+    cursor: pointer;
+    font-size: xx-large;
+}
+body{
+    background-color: rgb(1, 18, 116);
+}
+.butt{
+    width: 30%;
+    height: 50px;
+    font-size: larger;
+    border-radius: 5%;
+    cursor: pointer;
+}
+.back{
+    width: 10%;
+    height: 50px;
+    font-size: larger;
+    border-radius: 5%;
+    cursor: pointer;
+}

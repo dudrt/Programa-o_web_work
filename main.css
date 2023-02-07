@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(1, 18, 116);
+    margin: 0%;
+}
+button{
+    width: 50%;
+    height: 10%;
+    height: 50px;
+    font-size: larger;
+    border-radius: 5%;
+    cursor: pointer;
+}
+.top{
+    margin-top: 5%;
+}
+.main{
+    margin-top: 10%;
+    width: 20%;
+    background-color: aliceblue;
+}
+h1{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 1.5cm;
+margin: 0px;
+padding-bottom: 0.4%;
+background-color: aliceblue;
+}
